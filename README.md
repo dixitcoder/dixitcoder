@@ -31,7 +31,7 @@
 - ⚡ Fun fact **Did you know that the first computer virus was created in 1983 by Fred Cohen and was called the "Virus"? It was designed as an experiment to demonstrate the potential vulnerability of computer systems.**
 
 ## <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,angular,golang,git,azure,react,vue,flutter,c,cpp,javascript,typescript,swift,rust,ruby,python,haskell,java,arch,bash,cs,git,kali&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vue,flutter,javascript,typescript,git,kali&perline=12)](https://skillicons.dev)
 
 
 ## Notable Projects
