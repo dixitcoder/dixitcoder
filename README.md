@@ -30,6 +30,19 @@
 
 - ⚡ Fun fact **Did you know that the first computer virus was created in 1983 by Fred Cohen and was called the "Virus"? It was designed as an experiment to demonstrate the potential vulnerability of computer systems.**
 
+## <span style="color: blue !important;">&gt;</span> Skillset
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,angular,golang,git,azure,react,vue,flutter,c,cpp,javascript,typescript,swift,rust,ruby,python,haskell,java,arch,bash,cs,git,kali&perline=12)](https://skillicons.dev)
+
+
+## Notable Projects
+
+[![AI-Free-Tools-List](https://github-readme-stats.vercel.app/api/pin/?username=dixitcoder&repo=Ai-Free-Tools-List&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/Ai-Free-Tools-List)
+[![Windows Clone](https://github-readme-stats.vercel.app/api/pin/?username=dixitcoder&repo=windows-clone&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/windows-clone/tree/main)
+[![Dental Clinic Management System](https://github-readme-stats.vercel.app/api/pin/?username=dixitcoder&repo=dental-clinic-management-system-&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/dental-clinic-management-system-)
+[![WebNmap](https://github-readme-stats.vercel.app/api/pin/?username=dixitcoder&repo=WebNmap&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/WebNmap)
+
+---
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
