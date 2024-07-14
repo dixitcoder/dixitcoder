@@ -1,3 +1,6 @@
+
+![Alt Text](https://think360studio-media.s3.ap-south-1.amazonaws.com/photo/plugin/article/2022/Ionic-11102022.jpg)
+
 <h1 align="center">Hi 👋, I'm Dixit Patel</h1>
 <h3 align="center">Building Exceptional Vue.js Applications | Passionate Developer | Innovating with Code</h3>
 
