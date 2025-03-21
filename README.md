@@ -1,4 +1,3 @@
-
 ![Alt Text](https://store.enappd.com/wp-content/uploads/2022/08/ion-vue-full-screens-0.jpg)
 
 <h1 align="center">Hi 👋, I'm Dixit Patel</h1>
@@ -12,27 +11,26 @@
 
 - 🔭 I’m currently working on [Tech-Tool-Collection (Public)](https://github.com/dixitcoder/Tech-Tool-Collection/tree/master)
 
-- 🌱 I’m currently learning advanced Vue.js techniques and diving deeper into AI technologies. **Vue JS , IONIC , Vuetify , Vite**
+- 🌱 I’m currently learning **advanced Vue.js techniques, AI technologies, and exploring IONIC, Vuetify, and Vite.**
 
 - 👯 I’m looking to collaborate on [Ai-Free-Tools-List](https://github.com/dixitcoder/Ai-Free-Tools-List)
 
-- 🤝 I’m looking for help with [dental-clinic-management-system](https://github.com/dixitcoder/dental-clinic-management-system-)
+- 🤝 I’m looking for help with [Dental Clinic Management System](https://github.com/dixitcoder/dental-clinic-management-system-)
 
-- 👨‍💻 All of my projects are available at [Tech Tool Collection Student Management System Ai-Free-Tools-List Windows Clone Dental Clinic Management System WebNmap Vuetify Contact List Mobile Shopping"](Tech Tool Collection Student Management System Ai-Free-Tools-List Windows Clone Dental Clinic Management System WebNmap Vuetify Contact List Mobile Shopping")
+- 👨‍💻 All of my projects are available at [Tech Tool Collection, Student Management System, Ai-Free-Tools-List, Windows Clone, Dental Clinic Management System, WebNmap, Vuetify Contact List, Mobile Shopping](https://github.com/dixitcoder)
 
-- 📝 I regularly write articles on [Medium Personal Blog](Medium Personal Blog)
+- 📝 I regularly write articles on [Medium Personal Blog](https://medium.com/@dixitcoder)
 
 - 💬 Ask me about **Vue.js, Firebase Firestore, responsive web design, or setting up CI/CD pipelines.**
 
 - 📫 How to reach me **dixitcoder@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dixit-patel-05408630b/](https://www.linkedin.com/in/dixit-patel-05408630b/)
+- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/dixit-patel-05408630b/)
 
 - ⚡ Fun fact **Did you know that the first computer virus was created in 1983 by Fred Cohen and was called the "Virus"? It was designed as an experiment to demonstrate the potential vulnerability of computer systems.**
 
 ## <span style="color: blue !important;">&gt;</span> Skillset
 [![My Skills](https://skillicons.dev/icons?i=git,vue,flutter,javascript,typescript,git,kali&perline=12)](https://skillicons.dev)
-
 
 ## Notable Projects
 
