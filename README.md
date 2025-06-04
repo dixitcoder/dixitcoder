@@ -1,5 +1,6 @@
-![Alt Text](https://store.enappd.com/wp-content/uploads/2022/08/ion-vue-full-screens-0.jpg)
+![Alt Text](https://github.com/dixitcoder/DixitGuard/blob/main/dixitcoder-skill.png)
 
+<!-- https://store.enappd.com/wp-content/uploads/2022/08/ion-vue-full-screens-0.jpg -->
 <h1 align="center">Hi 👋, I'm Dixit Patel</h1>
 <h3 align="center">Building Exceptional Vue.js Applications | Passionate Developer | Innovating with Code</h3>
 
