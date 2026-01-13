@@ -1,89 +1,297 @@
-![Alt Text](https://github.com/dixitcoder/DixitGuard/blob/main/dixitcoder-skill.png)
+<!-- Dixit Patel - GitHub Profile README -->
+<!-- Modern & Customized with UI Components -->
 
-<!-- https://store.enappd.com/wp-content/uploads/2022/08/ion-vue-full-screens-0.jpg -->
-<h1 align="center">Hi 👋, I'm Dixit Patel</h1>
-<h3 align="center">Building Exceptional Vue.js Applications | Passionate Developer | Innovating with Code</h3>
+<div align="center">
+  
+<!-- Animated Header with Gradient -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&color=289BF9&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Dixit+Patel;Building+Exceptional+Vue.js+Applications;Passionate+Developer;Innovating+with+Code" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dixitcoder&label=Profile%20views&color=0e75b6&style=flat" alt="dixitcoder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dixitcoder" alt="dixitcoder" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dixitcoder" target="blank"><img src="https://img.shields.io/twitter/follow/dixitcoder?logo=twitter&style=for-the-badge" alt="dixitcoder" /></a> </p>
-
-- 🔭 I’m currently working on [Tech-Tool-Collection (Public)](https://github.com/dixitcoder/Tech-Tool-Collection/tree/master)
-
-- 🌱 I’m currently learning **advanced Vue.js techniques, AI technologies, and exploring IONIC, Vuetify, and Vite.**
-
-- 👯 I’m looking to collaborate on [Ai-Free-Tools-List](https://github.com/dixitcoder/Ai-Free-Tools-List)
-
-- 🤝 I’m looking for help with [Dental Clinic Management System](https://github.com/dixitcoder/dental-clinic-management-system-)
-
-- 👨‍💻 All of my projects are available at [Tech Tool Collection, Student Management System, Ai-Free-Tools-List, Windows Clone, Dental Clinic Management System, WebNmap, Vuetify Contact List, Mobile Shopping](https://github.com/dixitcoder)
-
-- 📝 I regularly write articles on [Medium Personal Blog](https://medium.com/@dixitcoder)
-
-- 💬 Ask me about **Vue.js, Firebase Firestore, responsive web design, or setting up CI/CD pipelines.**
-
-- 📫 How to reach me **dixitcoder@gmail.com**
-
-- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/dixit-patel-05408630b/)
-
-- ⚡ Fun fact **Did you know that the first computer virus was created in 1983 by Fred Cohen and was called the "Virus"? It was designed as an experiment to demonstrate the potential vulnerability of computer systems.**
-
-## <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=git,vue,flutter,javascript,typescript,git,kali&perline=12)](https://skillicons.dev)
-
-## Notable Projects
-
-[![AI-Free-Tools-List](https://github-readme-stats.vercel.app/api/pin/?username=dixitcoder&repo=Ai-Free-Tools-List&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/Ai-Free-Tools-List)
-[![Windows Clone](https://github-readme-stats.vercel.app/api/pin/?username=dixitcoder&repo=windows-clone&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/windows-clone/tree/main)
-[![Dental Clinic Management System](https://github-readme-stats.vercel.app/api/pin/?username=dixitcoder&repo=dental-clinic-management-system-&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/dental-clinic-management-system-)
-[![WebNmap](https://github-readme-stats.vercel.app/api/pin/?username=dixitcoder&repo=WebNmap&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/dixitcoder/WebNmap)
-
----
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://dev.to/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://twitter.com/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://kaggle.com/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://fb.com/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://instagram.com/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://dribbble.com/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://www.behance.net/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://hashnode.com/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://medium.com/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dixitcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="https://discord.gg/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dixitcoder" height="30" width="40" /></a>
-<a href="/dixitcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="dixitcoder" height="30" width="40" /></a>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dixitcoder&label=Profile%20views&color=0e75b6&style=flat" alt="dixitcoder" />
+  <img src="https://img.shields.io/github/followers/dixitcoder?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/twitter/follow/dixitcoder?style=social" alt="Twitter Follow" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<!-- Trophy Section -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dixitcoder&theme=nord&column=7&no-frame=true" alt="dixitcoder" />
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dixitcoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dixitcoder" /></a><a href="https://ko-fi.com/dixitcoder"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dixitcoder" /></a></p><br><br>
+</div>
+
+<!-- Main Content Container -->
+<div align="center">
+  
+<!-- Profile Image with Border Animation -->
+<div align="center">
+  <img src="https://github.com/dixitcoder/DixitGuard/blob/main/dixitcoder-skill.png" alt="Dixit Patel" width="300" style="border-radius: 50%; border: 5px solid #289BF9; animation: pulse 2s infinite;" />
+</div>
 
 <br>
-<br>
-<br>
-<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dixitcoder&show_icons=true&locale=en" alt="dixitcoder" /></p>
+<!-- About Me Card -->
+<div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 30px; border-radius: 20px; border: 1px solid #30363d; margin: 20px 0; box-shadow: 0 10px 30px rgba(40, 155, 249, 0.1);">
+  <h2 style="color: #289BF9; margin-bottom: 20px;">🚀 About Me</h2>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; text-align: left;">
+    
+    <!-- Left Column -->
+    <div>
+      <h3 style="color: #C9D1D9;">💼 Currently Working On</h3>
+      <p style="color: #8B949E;">
+        <a href="https://github.com/dixitcoder/Tech-Tool-Collection/tree/master" style="color: #289BF9; text-decoration: none;">
+          🔥 Tech-Tool-Collection (Public)
+        </a>
+      </p>
+      
+      <h3 style="color: #C9D1D9; margin-top: 20px;">🌱 Currently Learning</h3>
+      <p style="color: #8B949E;">
+        Advanced Vue.js techniques, AI technologies, IONIC, Vuetify, and Vite
+      </p>
+    </div>
+    
+    <!-- Right Column -->
+    <div>
+      <h3 style="color: #C9D1D9;">🤝 Looking to Collaborate</h3>
+      <p style="color: #8B949E;">
+        <a href="https://github.com/dixitcoder/Ai-Free-Tools-List" style="color: #289BF9; text-decoration: none;">
+          🤖 Ai-Free-Tools-List
+        </a>
+      </p>
+      
+      <h3 style="color: #C9D1D9; margin-top: 20px;">🆘 Need Help With</h3>
+      <p style="color: #8B949E;">
+        <a href="https://github.com/dixitcoder/dental-clinic-management-system-" style="color: #289BF9; text-decoration: none;">
+          🦷 Dental Clinic Management System
+        </a>
+      </p>
+    </div>
+  </div>
+  
+  <!-- Quick Links -->
+  <div style="margin-top: 30px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://github.com/dixitcoder" style="background: #289BF9; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="20" height="20" />
+      View All Projects
+    </a>
+    <a href="https://medium.com/@dixitcoder" style="background: transparent; color: #289BF9; padding: 10px 20px; border-radius: 10px; text-decoration: none; border: 2px solid #289BF9; display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="20" height="20" />
+      Read My Blog
+    </a>
+    <a href="mailto:dixitcoder@gmail.com" style="background: #28a745; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="20" height="20" />
+      Contact Me
+    </a>
+  </div>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dixitcoder&" alt="dixitcoder" /></p>
+<!-- Skillset Section -->
+<div style="background: linear-gradient(135deg, #161B22 0%, #0D1117 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 1px solid #30363d;">
+  <h2 style="color: #289BF9; margin-bottom: 20px;">🛠️ Tech Stack & Skills</h2>
+  
+  <!-- Primary Skills -->
+  <h3 style="color: #C9D1D9; text-align: left; margin-bottom: 15px;">Primary Technologies</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=vue,js,ts,flutter,firebase,nodejs,git&perline=7&theme=dark" alt="Primary Skills" />
+  </div>
+  
+  <!-- Secondary Skills -->
+  <h3 style="color: #C9D1D9; text-align: left; margin-top: 30px; margin-bottom: 15px;">Tools & Platforms</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,linux,mysql,vite&perline=7&theme=dark" alt="Secondary Skills" />
+  </div>
+  
+  <!-- Learning Now -->
+  <h3 style="color: #C9D1D9; text-align: left; margin-top: 30px; margin-bottom: 15px;">Currently Learning</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,arduino,docker,aws,react,nextjs&perline=7&theme=dark" alt="Learning Skills" />
+  </div>
+</div>
+
+<!-- Featured Projects -->
+<div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 1px solid #30363d;">
+  <h2 style="color: #289BF9; margin-bottom: 30px;">🚀 Featured Projects</h2>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+    
+    <!-- Project 1 -->
+    <div style="background: #161B22; padding: 20px; border-radius: 15px; border: 1px solid #30363d; transition: transform 0.3s;">
+      <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px;">
+        <h3 style="color: #C9D1D9; margin: 0;">🤖 AI Tools List</h3>
+        <span style="background: #289BF9; color: white; padding: 3px 10px; border-radius: 12px; font-size: 12px;">Vue.js</span>
+      </div>
+      <p style="color: #8B949E; font-size: 14px;">Comprehensive collection of free AI tools and resources for developers</p>
+      <a href="https://github.com/dixitcoder/Ai-Free-Tools-List" style="color: #289BF9; text-decoration: none; display: inline-block; margin-top: 10px;">View Project →</a>
+    </div>
+    
+    <!-- Project 2 -->
+    <div style="background: #161B22; padding: 20px; border-radius: 15px; border: 1px solid #30363d; transition: transform 0.3s;">
+      <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px;">
+        <h3 style="color: #C9D1D9; margin: 0;">💻 Windows Clone</h3>
+        <span style="background: #28a745; color: white; padding: 3px 10px; border-radius: 12px; font-size: 12px;">JavaScript</span>
+      </div>
+      <p style="color: #8B949E; font-size: 14px;">Web-based Windows OS clone with interactive desktop experience</p>
+      <a href="https://github.com/dixitcoder/windows-clone" style="color: #289BF9; text-decoration: none; display: inline-block; margin-top: 10px;">View Project →</a>
+    </div>
+    
+    <!-- Project 3 -->
+    <div style="background: #161B22; padding: 20px; border-radius: 15px; border: 1px solid #30363d; transition: transform 0.3s;">
+      <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px;">
+        <h3 style="color: #C9D1D9; margin: 0;">🦷 Dental Clinic System</h3>
+        <span style="background: #6f42c1; color: white; padding: 3px 10px; border-radius: 12px; font-size: 12px;">Vue.js + Firebase</span>
+      </div>
+      <p style="color: #8B949E; font-size: 14px;">Full-featured dental clinic management system with appointment scheduling</p>
+      <a href="https://github.com/dixitcoder/dental-clinic-management-system-" style="color: #289BF9; text-decoration: none; display: inline-block; margin-top: 10px;">View Project →</a>
+    </div>
+    
+    <!-- Project 4 -->
+    <div style="background: #161B22; padding: 20px; border-radius: 15px; border: 1px solid #30363d; transition: transform 0.3s;">
+      <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px;">
+        <h3 style="color: #C9D1D9; margin: 0;">🔍 WebNmap</h3>
+        <span style="background: #d73a49; color: white; padding: 3px 10px; border-radius: 12px; font-size: 12px;">Security Tool</span>
+      </div>
+      <p style="color: #8B949E; font-size: 14px;">Web-based network scanning tool for security analysis and penetration testing</p>
+      <a href="https://github.com/dixitcoder/WebNmap" style="color: #289BF9; text-decoration: none; display: inline-block; margin-top: 10px;">View Project →</a>
+    </div>
+    
+  </div>
+  
+  <div align="center" style="margin-top: 30px;">
+    <a href="https://github.com/dixitcoder?tab=repositories" style="background: transparent; color: #289BF9; padding: 12px 30px; border-radius: 10px; text-decoration: none; border: 2px solid #289BF9; display: inline-flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="20" height="20" />
+      View All Projects
+    </a>
+  </div>
+</div>
+
+<!-- GitHub Stats -->
+<div style="background: linear-gradient(135deg, #161B22 0%, #0D1117 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 1px solid #30363d;">
+  <h2 style="color: #289BF9; margin-bottom: 20px;">📊 GitHub Analytics</h2>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+    
+    <!-- Stats Card -->
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=dixitcoder&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=289BF9&text_color=8B949E&icon_color=289BF9" alt="GitHub Stats" />
+    </div>
+    
+    <!-- Streak Stats -->
+    <div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dixitcoder&theme=nord&hide_border=true&background=0D1117&stroke=30363d&ring=289BF9&fire=289BF9&currStreakLabel=289BF9" alt="GitHub Streak" />
+    </div>
+    
+    <!-- Top Languages -->
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixitcoder&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=289BF9&text_color=8B949E" alt="Top Languages" />
+    </div>
+    
+  </div>
+</div>
+
+<!-- Connect Section -->
+<div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 1px solid #30363d;">
+  <h2 style="color: #289BF9; margin-bottom: 20px;">🌐 Connect With Me</h2>
+  
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
+    <a href="https://twitter.com/dixitcoder" target="_blank" style="color: #1DA1F2; text-decoration: none; display: flex; align-items: center; gap: 8px; background: rgba(29, 161, 242, 0.1); padding: 10px 20px; border-radius: 10px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="20" height="20" />
+      Twitter
+    </a>
+    <a href="https://linkedin.com/in/dixitcoder" target="_blank" style="color: #0077B5; text-decoration: none; display: flex; align-items: center; gap: 8px; background: rgba(0, 119, 181, 0.1); padding: 10px 20px; border-radius: 10px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20" height="20" />
+      LinkedIn
+    </a>
+    <a href="https://medium.com/@dixitcoder" target="_blank" style="color: #00AB6C; text-decoration: none; display: flex; align-items: center; gap: 8px; background: rgba(0, 171, 108, 0.1); padding: 10px 20px; border-radius: 10px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="20" height="20" />
+      Medium
+    </a>
+    <a href="mailto:dixitcoder@gmail.com" style="color: #EA4335; text-decoration: none; display: flex; align-items: center; gap: 8px; background: rgba(234, 67, 53, 0.1); padding: 10px 20px; border-radius: 10px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="20" height="20" />
+      Email
+    </a>
+  </div>
+  
+  <!-- Coding Profiles -->
+  <h3 style="color: #C9D1D9; margin-bottom: 15px;">💻 Coding Profiles</h3>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="https://leetcode.com/dixitcoder" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://www.hackerrank.com/dixitcoder" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+    </a>
+    <a href="https://codeforces.com/profile/dixitcoder" target="_blank">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    </a>
+    <a href="https://www.codepen.io/dixitcoder" target="_blank">
+      <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+    </a>
+  </div>
+</div>
+
+<!-- Support Section -->
+<div style="background: linear-gradient(135deg, #161B22 0%, #0D1117 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 1px solid #30363d;">
+  <h2 style="color: #289BF9; margin-bottom: 20px;">☕ Support My Work</h2>
+  
+  <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://www.buymeacoffee.com/dixitcoder" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+    </a>
+    <a href="https://ko-fi.com/dixitcoder" target="_blank">
+      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="50" />
+    </a>
+  </div>
+  
+  <p style="color: #8B949E; margin-top: 20px; text-align: center;">
+    Every coffee helps me create more awesome open-source projects! ❤️
+  </p>
+</div>
+
+<!-- Fun Fact -->
+<div style="background: linear-gradient(135deg, #289BF9 0%, #1D4ED8 100%); padding: 25px; border-radius: 20px; margin: 20px 0; text-align: center;">
+  <h3 style="color: white; margin: 0;">⚡ Fun Fact</h3>
+  <p style="color: white; margin-top: 10px;">
+    Did you know that the first computer virus was created in 1983 by Fred Cohen and was called the "Virus"? 
+    It was designed as an experiment to demonstrate the potential vulnerability of computer systems.
+  </p>
+</div>
+
+<!-- Footer -->
+<div align="center" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #30363d;">
+  <p style="color: #8B949E;">
+    Made with ❤️ by <span style="color: #289BF9;">Dixit Patel</span> 
+    • 
+    Last Updated: <span id="current-date" style="color: #289BF9;"></span>
+  </p>
+  <p style="color: #8B949E; font-size: 12px;">
+    ⭐ Star my repositories if you find them useful!
+  </p>
+</div>
+
+</div>
+
+<!-- JavaScript for Date -->
+<script>
+  document.getElementById('current-date').textContent = new Date().toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
+</script>
+
+<!-- CSS Animations -->
+<style>
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(40, 155, 249, 0.7); }
+    70% { box-shadow: 0 0 0 15px rgba(40, 155, 249, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(40, 155, 249, 0); }
+  }
+  
+  div[style*="background: #161B22; padding: 20px;"]:hover {
+    transform: translateY(-5px);
+    border-color: #289BF9 !important;
+  }
+</style>
